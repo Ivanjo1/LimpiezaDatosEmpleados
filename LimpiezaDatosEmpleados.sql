@@ -1,7 +1,7 @@
 
-CREATE DATABASE PortfolioProject_2;
+CREATE DATABASE PortfolioProject;
 
-USE PortfolioProject_2;
+USE PortfolioProject;
 
 -- Limpieza de datos 
 -- Importar archivo csv para la limpieza
